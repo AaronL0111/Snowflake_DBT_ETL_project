@@ -1,0 +1,14 @@
+aws_dbt_snowflake_project_aaron:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: <YOUR_SNOWFLAKE_ACCOUNT_LOCATOR>
+      user: <YOUR_USERNAME>
+      password: <YOUR_PASSWORD>
+      role: <YOUR_ROLE> # e.g., ACCOUNTADMIN
+      database: <YOUR_DATABASE> # e.g., AIRBNB
+      schema: <YOUR_SCHEMA> # e.g., dbt_schema
+      warehouse: <YOUR_WAREHOUSE> # e.g., COMPUTE_WH
+      threads: 1
+      client_session_keep_alive: false
