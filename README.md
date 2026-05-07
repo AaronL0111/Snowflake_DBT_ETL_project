@@ -58,8 +58,8 @@ aws_dbt_snowflake_project_aaron/
 
 ## 📊 Example Output
 
-*Note: You can add a screenshot of your Snowflake `gold` schema here.*
-<!-- <img width="1000" alt="image" src="YOUR_IMAGE_LINK_HERE" /> -->
+<img width="1915" height="939" alt="image" src="https://github.com/user-attachments/assets/6593695b-f32e-40fd-91c4-a770e85cda39" />
+
 
 ## 🧰 Tech Stack
 
